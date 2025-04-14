@@ -4,5 +4,4 @@ export const userData = {
   github: 'https://github.com/TranTruong753',
   facebook: 'https://www.facebook.com/tran.truong.619173',
   skills: ['React', 'Python', 'Django', 'MySql', 'Postgres', 'AWS', 'Vue'],
-  timezone: '+6'
 };
