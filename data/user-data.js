@@ -3,6 +3,6 @@ export const userData = {
   devUsername: 'trantruong753',
   github: 'https://github.com/TranTruong753',
   facebook: 'https://www.facebook.com/tran.truong.619173',
-  skills: ['React', 'Redux', 'Express', 'MySql', 'MongoDB', 'Postgres', 'AWS', 'Vue'],
+  skills: ['React', 'Python', 'Django', 'MySql', 'Postgres', 'AWS', 'Vue'],
   timezone: '+6'
 };
